@@ -1,0 +1,11 @@
+result_type,input_text,prediction,probability
+Text,you are an idiot,Toxic,0.9980181455612183
+Image,a man and woman are looking at a laptop [SEP],Non-toxic,0.09582703560590744
+Image,a man and woman are looking at a laptop [SEP],Non-toxic,0.09582703560590744
+Image,a man and woman are looking at a laptop [SEP],Non-toxic,0.09582703560590744
+Text,you are an idiot,Toxic,0.9980181455612183
+Text,you are an idiot,Toxic,0.9980181455612183
+Text,you are an idiot,Toxic,0.9980181455612183
+Text,you are an idiot,Toxic,0.9980181455612183
+Image,a man and woman are looking at a laptop [SEP],Non-toxic,0.09582703560590744
+Text,happy,Non-toxic,0.04332924634218216
